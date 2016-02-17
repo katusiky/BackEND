@@ -22,6 +22,7 @@ gem 'devise', '~> 3.4.0'
 gem 'font-awesome-rails'
 gem 'omniauth'
 gem 'omniauth-facebook'
+gem 'omniauth-twitter'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
